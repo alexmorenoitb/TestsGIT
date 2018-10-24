@@ -29,6 +29,7 @@ public class Sample2 {
             default:
                 return 0;
         }
+
         } else {
             switch(month){
                 case 1:
